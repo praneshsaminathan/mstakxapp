@@ -41,9 +41,6 @@ INSTALLED_APPS = [
 ]
 THIRD_PARTY = [
     'rest_framework',
-    # 'social_django',
-    # 'cookielaw',
-    # 'corsheaders'
 ]
 
 APPS = [
